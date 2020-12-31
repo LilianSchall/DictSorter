@@ -25,3 +25,7 @@ python3 sorter.py
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## Share and social media
+If you have any question, feel free to reach me on https://twitter.com/lilixns.
+
